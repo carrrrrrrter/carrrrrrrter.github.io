@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+body {
+  background-color: #ffffff;
+}
+
+.mb-0 {
+  text-decoration-color: white;
+}
+.myinfo p {
+  padding-left: 35px;
+  padding-right: 35px;
+}
+
+@media only screen and (min-width: 1000px) {
+
+}
